@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630832078504",
+    "firebase_url": "https://blind3-ed7c3.firebaseio.com",
+    "project_id": "blind3-ed7c3",
+    "storage_bucket": "blind3-ed7c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630832078504:android:c54ec615a93228dc1aac9d",
+        "android_client_info": {
+          "package_name": "com.example.blind3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630832078504-j6c8a4tvtbnmbpkb11l2ai5ki04vf1t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSu-w5zxQnOGruKcXlPOx3yRpFvkdwVYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630832078504-j6c8a4tvtbnmbpkb11l2ai5ki04vf1t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
